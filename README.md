@@ -9,3 +9,5 @@ Inside the project you will find:
 - Custom Made PID Controllers that feed through JAR
 - Custom Made Move to point algorithem with mid point auto correction and smooth curve maker
 - Custom Made Pure Pursuite (its a little jank ngl dont use unless u know what u doing)
+- All the autons routes used including skills and match autons
+- Minimal comments (im to lazy to go back and comment it all lol)
