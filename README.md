@@ -7,5 +7,5 @@ Inside the project you will find:
 - JAR Template (odom was taken for its sheer accuracy)
 - Plug and play capabilitys (Thx to the makers of JAR for Help on this)
 - Custom Made PID Controllers that feed through JAR
-- Custom Made Move to point algorithem with mid point auto correction
+- Custom Made Move to point algorithem with mid point auto correction and smooth curve maker
 - Custom Made Pure Pursuite (its a little jank ngl dont use unless u know what u doing)
